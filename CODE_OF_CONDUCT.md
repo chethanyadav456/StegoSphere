@@ -1,8 +1,3 @@
----
-title: Code of Conduct
-description: Community participation guidelines for StegoSphere contributors and maintainers
----
-
 ## Our Pledge
 
 We as members, contributors, and maintainers pledge to make participation in

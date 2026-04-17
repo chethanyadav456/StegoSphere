@@ -1,8 +1,3 @@
----
-title: Contributing to StegoSphere
-description: Contribution workflow, coding standards, and pull request expectations for StegoSphere
----
-
 ## Welcome
 
 Thanks for your interest in contributing to StegoSphere.
