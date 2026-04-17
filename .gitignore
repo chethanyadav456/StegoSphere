@@ -1,0 +1,10 @@
+__pycache__/
+venv/
+.qodo/
+env
+.env
+*.env
+*.pyc
+*.pyo
+.DS_Store
+steganographed_image.png

@@ -1,0 +1,14 @@
+cffi==1.17.1
+cryptography==44.0.1
+iniconfig==2.0.0
+Jinja2==3.1.6
+MarkupSafe==3.0.2
+numpy==2.2.3
+packaging==24.2
+pillow==11.1.0
+pluggy==1.5.0
+pycparser==2.22
+PyQt6==6.8.1
+PyQt6-Qt6==6.8.2
+PyQt6_sip==13.10.0
+pytest==8.3.5
