@@ -1,10 +1,9 @@
----
-title: StegoSphere
-description: Open-source desktop app for LSB image steganography with password encryption and optional email delivery
----
-
 <p align="center">
 	<img src="logo.png" alt="StegoSphere logo" width="400" />
+</p>
+
+<p align="center">
+	Open-source LSB steganography for encrypted hidden messages.
 </p>
 
 <p align="center">
